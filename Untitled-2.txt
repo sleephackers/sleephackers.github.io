@@ -14,11 +14,12 @@
       }
 
       .navitems {
+        margin: 5px;
         float: right;
-        padding-bottom: 10px;
       }
 
       .navitems a {
+        display: block;
         color: white;
         text-align: center;
         padding: 14px 16px;
@@ -26,9 +27,9 @@
         margin-right: 15px;
       }
       .img-responsive {
-        display: block;
-        margin: auto;
-        padding-top: 10px;
+        height: auto;
+        padding-left: 50%;
+        width: auto;
         max-height: 72px;
         max-width: 250px;
       }
@@ -65,8 +66,6 @@
       .smlist {
         padding-right: 20px;
         padding-left: 20px;
-        padding-top: 5px;
-        padding-bottom: 5px;
         position: relative;
         height: auto;
         width: 20%;

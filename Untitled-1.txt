@@ -15,7 +15,7 @@
 
       .navitems {
         float: right;
-        padding-bottom: 10px;
+        padding-bottom: 5px;
       }
 
       .navitems a {
@@ -28,7 +28,6 @@
       .img-responsive {
         display: block;
         margin: auto;
-        padding-top: 10px;
         max-height: 72px;
         max-width: 250px;
       }
